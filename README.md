@@ -1,0 +1,1 @@
+This is a simple C++ game written with ASCII graphics. Each time the player "moves" the map renders again to make it seem like you're moving around the map. The goal is to escape the dungeon, you can check the walkthru txt file for help.
