@@ -1,0 +1,29 @@
+Reach Goals:
+- Hazard (Sleeping Undead (X) shouldn't be approached or you will lose, unless you have Sneakers, 
+	but you will always lose if you step on their tile)
+- Auto Pickup
+
+How to Win:
+ > Start in Entrance
+ 
+ > Go North -> West -> West
+ 
+ > Grab the Item (Potion)
+ 
+ > Go East -> East -> North -> East -> East -> South
+ 
+ > Talk to Merchant (will give Sneakers in exchange for the Bone you started with)
+ 
+ > Go North -> West -> West -> North -> West -> West -> North
+ 
+ > Grab the Item (Phone)
+ 
+ > Go South -> East -> East -> North -> East -> East -> East -> East -> South
+ 
+ > Ring the Bell
+ 
+ > Go North -> North
+ 
+ > Ring the Bell
+ 
+ > Go South -> West -> West -> South -> South -> West -> West -> South -> South
